@@ -1,0 +1,9 @@
+
+A simple **console-based quiz application** built using Java.  
+This app asks multiple-choice questions, accepts user input, checks correctness, and finally displays the result.
+
+---
+
+
+- **Language**: Java  
+- **Execution**: Console-based (Terminal / Command Prompt) 
